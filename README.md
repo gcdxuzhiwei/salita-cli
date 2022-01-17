@@ -1,0 +1,2 @@
+# salita-cli
+salita-cli
